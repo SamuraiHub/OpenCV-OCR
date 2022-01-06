@@ -1,0 +1,9 @@
+﻿  Sample_OpenCV.cpp
+C:\C++\sample_opencv\Sample_OpenCV\Sample_OpenCV.cpp(52,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\C++\sample_opencv\Sample_OpenCV\Sample_OpenCV.cpp(85,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 394 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sample_OpenCV.vcxproj -> C:\C++\sample_opencv\x64\Release\Sample_OpenCV.exe
